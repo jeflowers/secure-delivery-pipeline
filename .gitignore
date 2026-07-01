@@ -1,0 +1,17 @@
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!example.tfvars
+.terraform.lock.hcl
+
+# Credentials - never commit
+*.pem
+*.json.key
+kubeconfig*
+.env
+
+# Local
+.DS_Store

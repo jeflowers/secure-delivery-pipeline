@@ -1,0 +1,6 @@
+
+# Installer artifacts
+*.zip
+aws/
+kubectl
+google-cloud-sdk/

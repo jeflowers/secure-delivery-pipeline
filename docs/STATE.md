@@ -16,11 +16,11 @@ STATUS
 -------
 |
 |
-MD
+M0
 |
 Accounts + toolchain + scaffold + budget alarms
 |
-IN PROGRESS
+DONE
 |
 |
 M1

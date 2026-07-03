@@ -16,3 +16,9 @@ kubeconfig*
 # Local
 .DS_Store
 security/aws-budget-notify.json
+
+# Installer artifacts
+*.zip
+aws/
+kubectl
+google-cloud-sdk/
